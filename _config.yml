@@ -1,0 +1,16 @@
+# Site variables
+title: Fine Portuguese Products
+description: Description
+summary: Summary
+url: http://fineportugueseproducts.com
+
+# Build settings
+markdown:
+theme:
+gems:
+exclude:
+  - Gemfile
+  - Gemfile.lock
+# sass:
+  # sass_dir: assets/styles
+  # style: compressed
